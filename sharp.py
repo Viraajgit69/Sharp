@@ -16,7 +16,7 @@ loop = asyncio.get_event_loop()
 
 # Bot Configuration: Set with Authority
 TOKEN = '7395823197:AAGYBC8lHlgq7-cx01NgnawlMuedhW62pDE'
-ADMIN_USER_ID = USER ID YOUR
+ADMIN_USER_ID = 7345260405
 MONGO_URI = 'mongodb+srv://sharp:sharp@sharpx.x82gx.mongodb.net/?retryWrites=true&w=majority&appName=SharpX'
 USERNAME = "@FNxDANGER"  # Immutable username for maximum security
 
